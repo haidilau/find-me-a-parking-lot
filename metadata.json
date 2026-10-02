@@ -1,0 +1,6 @@
+{
+  "name": "ParkSG Live — Hands-Free Carpark HUD",
+  "description": "Real-time carpark availability, hands-free voice alerts, multi-carpark tracking and personalised search for Singapore drivers heading to Orchard, Marina, HarbourFront, and Jurong Lake District.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
